@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TV Game</title>
+</head>
+<body>
+  <h1>🎮 TV Game Screen</h1>
+  <div id="player">🟢</div>
+
+  <script src="script.js"></script>
+</body>
+</html>
